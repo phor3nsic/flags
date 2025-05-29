@@ -1,6 +1,7 @@
 # flags
 
-Description of projectflags.
+Parse stdin to emogi flags...
+
 
 ### Install
 
