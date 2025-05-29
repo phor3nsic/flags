@@ -1,7 +1,7 @@
 # flags
 
 Parse stdin to emogi flags...
-x
+xx
 
 ### Install
 
