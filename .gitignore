@@ -1,0 +1,6 @@
+*venv*
+venv/*
+build/*
+*build*
+*flags.egg-info*
+flags.egg-info/*
