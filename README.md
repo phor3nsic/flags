@@ -11,7 +11,7 @@ echo "[CVE-2023-5561] [http] [medium] https://example/?rest_route=/wp/v2/users&s
 You recive message like:
 
 ```
-🟠 MEDIUM: [CVE-2023-5561] [http] [medium] https://example/?rest_route=/wp/v2/users&search=@ [route=?rest_route=/wp/v2/users]
+🟠 MEDIUM: [CVE-2023-5561] [http] [medium] https://example/?rest_route=/wp/v2/users&search=@ [route=?rest_route=/wp/vx/users]
 ```
 
 ### Install
